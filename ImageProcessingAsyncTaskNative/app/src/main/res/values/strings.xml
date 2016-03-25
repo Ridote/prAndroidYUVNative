@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ImageProcessingNative</string>
+    <string name="mean">Mean:</string>
+    <string name="notused">Not Used</string>
+    <string name="timeunit">ms</string>
+    <string name="rgb">RGB</string>
+    <string name="gray">GRAY</string>
+    <string name="convolution">CONVOLUTION</string>
+    <string name="parallelrgb">RGB Par</string>
+    <string name="parallel">parallel</string>
+    <string name="natv">native</string>
+    <string name="omp">OMP</string>
+    <string name="HISTOGRAM">HISTOGRAM</string>
+    <string name="title_activity_matrix">MatrixActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
